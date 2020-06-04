@@ -1,4 +1,4 @@
-#Clock Image Generator
+# Clock Image Generator
 - タイミングチャートをspice記述のように書くことで生成するguiアプリケーション
 - つくりたいとおもっているだけでまだ全くできてません。
 
